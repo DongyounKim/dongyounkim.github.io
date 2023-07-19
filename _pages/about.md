@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Iowa State University
 
 profile:
   align: right
-  image: 2016.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p> adress </p>
