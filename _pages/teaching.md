@@ -16,5 +16,5 @@ Organize your courses by years, topics, or universities, however you like! -->
 * [2023 Spring, 2022 Fall, 2022 Spring] Coms 572/472 **Principles of Artificial Intelligence**
 * [2021, 2020] Coms 113 **Introduction to Spreadsheet and Databases**
 
-# South Dakota STate University
+# South Dakota State University
 * [2018, 2017] Lab mornitoring - **Program Language, Software Engineering**
