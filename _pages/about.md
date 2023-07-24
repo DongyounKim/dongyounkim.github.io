@@ -6,7 +6,7 @@ subtitle: <a href='https://www.cs.iastate.edu/dongyoun'>Iowa State University</a
 
 profile:
   align: right
-  image: qks.jpg
+  image: rest.jpg
   image_circular: false # crops the image to make it circular
   address: >
     Ph.D student in Computer Science Department | Iowa State University
